@@ -1,11 +1,6 @@
 # Embedded System & Firmware 👨🏻‍💻
 <br>
 
-<h3> 📚 I'm currently learning </h3>
-
-- `TCP/IP Programming`
- 
-
 <h3> 💪 </h3>
 
 <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=Arm&logoColor=white">
@@ -20,10 +15,11 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-FFA726?style=for-the-badge)](https://)
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
@@ -32,7 +28,6 @@
    
 
 <br>
-
 
 <h3> 🌱 I’m interested in </h3>
 
@@ -47,5 +42,12 @@
 [![iot](https://img.shields.io/badge/iot-CFD8DC?style=for-the-badge)](https://)
 [![embedded security](https://img.shields.io/badge/embedded_security-CFD8DC?style=for-the-badge)](https://)
 [![digital image processing](https://img.shields.io/badge/digital_image_processing-CFD8DC?style=for-the-badge)](https://)  
+
+<br>
+
+
+<h3> 📚 I'm currently learning </h3>
+
+- TCP/IP Programming
 
 <br>
