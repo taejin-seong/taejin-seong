@@ -1,7 +1,4 @@
-# Embedded System & Firmware Engineer 👨🏻‍💻
-
-🌱 I’m currently learning `TCP/Ip Programming`. <br>
-
+# Embedded System & Firmware 👨🏻‍💻
 <br>
 
 <div align=center>
@@ -26,11 +23,27 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 [![Atmel](https://img.shields.io/badge/Atmel-0277BD?style=for-the-badge)](https://)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+   
+</div>
+
+<br>
+
+- 🌱 I’m interested in
+
+<div align==cneter>
+  
 [![Nordic Semiconductor](https://img.shields.io/badge/Nordic_Semiconductor-0288D1?style=for-the-badge)](https://)
 [![texas instrument](https://img.shields.io/badge/texas_instrument-B71C1C?style=for-the-badge)](https://)
 [![Infineon Technologies](https://img.shields.io/badge/Infineon_Technologies-0D47A1?style=for-the-badge)](https://)
 [![Renesas Electronics](https://img.shields.io/badge/Renesas_Electronics-3949AB?style=for-the-badge)](https://)
-[![ABOV Semiconductor](https://img.shields.io/badge/ABOV_Semiconductor-43A047?style=for-the-badge)](https://)  
-  
+[![ABOV Semiconductor](https://img.shields.io/badge/ABOV_Semiconductor-43A047?style=for-the-badge)](https://)
+[![Nuvoton](https://img.shields.io/badge/Nuvoton-D84315?style=for-the-badge)](https://)
+[![automatic control](https://img.shields.io/badge/automatic_control-CFD8DC?style=for-the-badge)](https://)
+[![iot](https://img.shields.io/badge/iot-CFD8DC?style=for-the-badge)](https://)
+[![embedded security](https://img.shields.io/badge/embedded_security-CFD8DC?style=for-the-badge)](https://)
+[![digital image processing](https://img.shields.io/badge/digital_image_processing-CFD8DC?style=for-the-badge)](https://)  
+
   
 </div>
+
+- 📚 I’m currently learning `TCP/Ip Programming`. <br>
