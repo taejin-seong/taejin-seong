@@ -1,20 +1,23 @@
 # Embedded System & Firmware 👨🏻‍💻
 
+<div align = right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaejin-seong%2Ftaejin-seong%2Fedit%2Fmain%2FREADME.md&count_bg=%23000000&title_bg=%230B0A0A&icon=&icon_color=%23E7E7E7&title=Hello+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <h3> 💪💻 </h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 [![MATLAB](https://img.shields.io/badge/MATLAB-FFA726?style=for-the-badge)](https://)
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)    
-
 [![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=ARM&logoColor=white)](https://)
 <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
