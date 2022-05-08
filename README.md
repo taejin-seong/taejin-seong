@@ -25,8 +25,12 @@
 <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=Espressif&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 [![Atmel](https://img.shields.io/badge/Atmel-0277BD?style=for-the-badge)](https://)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 [![Nordic Semiconductor](https://img.shields.io/badge/Nordic_Semiconductor-0288D1?style=for-the-badge)](https://)
+[![texas instrument](https://img.shields.io/badge/texas_instrument-B71C1C?style=for-the-badge)](https://)
+[![Infineon Technologies](https://img.shields.io/badge/Infineon_Technologies-0D47A1?style=for-the-badge)](https://)
+[![Renesas Electronics](https://img.shields.io/badge/Renesas_Electronics-3949AB?style=for-the-badge)](https://)
+[![ABOV Semiconductor](https://img.shields.io/badge/ABOV_Semiconductor-43A047?style=for-the-badge)](https://)  
   
   
 </div>
