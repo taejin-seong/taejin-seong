@@ -26,12 +26,11 @@
    
 </div>
 
-<br>
+<br><br>
 
-- 🌱 I’m interested in
 
-<div align==cneter>
-  
+<h3> 🌱 I’m interested in </h3>
+
 [![Nordic Semiconductor](https://img.shields.io/badge/Nordic_Semiconductor-0288D1?style=for-the-badge)](https://)
 [![texas instrument](https://img.shields.io/badge/texas_instrument-B71C1C?style=for-the-badge)](https://)
 [![Infineon Technologies](https://img.shields.io/badge/Infineon_Technologies-0D47A1?style=for-the-badge)](https://)
@@ -43,7 +42,3 @@
 [![embedded security](https://img.shields.io/badge/embedded_security-CFD8DC?style=for-the-badge)](https://)
 [![digital image processing](https://img.shields.io/badge/digital_image_processing-CFD8DC?style=for-the-badge)](https://)  
 
-  
-</div>
-
-- 📚 I’m currently learning `TCP/Ip Programming`. <br>
