@@ -1,5 +1,4 @@
 # Embedded System & Firmware 👨🏻‍💻
-<br>
 
 <h3> 💪 </h3>
 
