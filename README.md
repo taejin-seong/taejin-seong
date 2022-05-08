@@ -1,11 +1,5 @@
 # Embedded System & Firmware 👨🏻‍💻
 
-<div align = right>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaejin-seong%2Ftaejin-seong%2Fedit%2Fmain%2FREADME.md&count_bg=%23000000&title_bg=%230B0A0A&icon=&icon_color=%23E7E7E7&title=Hello+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <h3> 💪💻 </h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
