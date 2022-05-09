@@ -28,6 +28,8 @@
 
 <h3> 🌱 I’m interested in </h3>
 
+I want to have various MCU development boards. 😎
+
 [![Nordic Semiconductor](https://img.shields.io/badge/Nordic_Semiconductor-0288D1?style=for-the-badge)](https://)
 [![texas instrument](https://img.shields.io/badge/texas_instrument-B71C1C?style=for-the-badge)](https://)
 [![Infineon Technologies](https://img.shields.io/badge/Infineon_Technologies-0D47A1?style=for-the-badge)](https://)
