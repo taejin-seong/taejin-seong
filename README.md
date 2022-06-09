@@ -48,5 +48,6 @@ I want to have various MCU development boards. 😎
 <h3> 📚 I'm currently learning </h3>
 
 - TCP/IP Programming
+- QT Programming
 
 <br>
