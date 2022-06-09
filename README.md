@@ -4,7 +4,8 @@
 
 </div>
 
-# Embedded System & Firmware 👨🏻‍💻
+<h1 align="center">Hi 👋, I'm TaeJin Seong</h1>
+<h3 align="center"> Embedded System & Firmware Engineer</h3>
 
 <h3> 💪💻 </h3>
 
