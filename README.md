@@ -50,5 +50,6 @@ I want to have various MCU development boards. 😎
 
 - TCP/IP Programming
 - QT Programming
+- 전기기사
 
 <br>
