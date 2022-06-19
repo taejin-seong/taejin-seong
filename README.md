@@ -37,6 +37,8 @@ I want to have various MCU development boards. 😎
 [![Renesas Electronics](https://img.shields.io/badge/Renesas_Electronics-3949AB?style=for-the-badge)](https://)
 [![ABOV Semiconductor](https://img.shields.io/badge/ABOV_Semiconductor-43A047?style=for-the-badge)](https://)
 [![Nuvoton](https://img.shields.io/badge/Nuvoton-D84315?style=for-the-badge)](https://) 
+[![NXP Semiconductors](https://img.shields.io/badge/NXP_Semiconductors-FECC00?style=for-the-badge)](https://) 
+
 
 [![automatic control](https://img.shields.io/badge/automatic_control-CFD8DC?style=for-the-badge)](https://)
 [![iot](https://img.shields.io/badge/iot-CFD8DC?style=for-the-badge)](https://)
